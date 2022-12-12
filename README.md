@@ -1,7 +1,7 @@
 # Machine-Learning
 This repository contains the skin cancer detection model which was created with the help of python <br>
 
-#$ Points To Follow:
+## Points To Follow:
 
 * You will need `Jupyter Notebook` or 'Google Collab' to run the analysis code and the project report. <br>
 
